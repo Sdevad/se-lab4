@@ -1,0 +1,3 @@
+# Elsodleges tar: 1 torpedo, nem hibas; masodlagos tar: ures
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # elso loves az elsodleges tarbol, ezert sikeres

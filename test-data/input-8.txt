@@ -1,0 +1,4 @@
+# Elsodleges tar: 1 torpedo, nem hibas; masodlagos tar: ures
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # az elsodleges tar lo
+TORPEDO,SINGLE  # a masodlagos jonne, de ures, es mar az elsodleges is ures

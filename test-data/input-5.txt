@@ -1,0 +1,4 @@
+# Mindket tarban 1-1 torpedo, egyik sem hibas
+GT4500,1,0,1,0
+TORPEDO,ALL     # mindket tar lo
+TORPEDO,SINGLE  # mindket tar ures, ezert nem lehet loni

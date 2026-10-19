@@ -1,0 +1,3 @@
+# Elsodleges tar: 1 torpedo, hibas; masodlagos tar: 1 torpedo, nem hibas
+GT4500,1,1,1,0
+TORPEDO,SINGLE  # az elsodleges hibas, a hajo nem probalkozik a masodlagossal

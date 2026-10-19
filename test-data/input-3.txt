@@ -1,0 +1,3 @@
+# Elsodleges tar: ures; masodlagos tar: 1 torpedo, nem hibas
+GT4500,0,0,1,0
+TORPEDO,SINGLE  # az elsodleges ures, ezert a masodlagos tar lo
