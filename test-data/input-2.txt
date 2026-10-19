@@ -1,0 +1,4 @@
+# Elsodleges tar: 2 torpedo, nem hibas; masodlagos tar: 1 torpedo, hibas
+GT4500,2,0,1,1
+TORPEDO,SINGLE  # az elsodleges tar lo
+TORPEDO,SINGLE  # a tarak felvaltva lonek, ezert a hibas masodlagos tar lo
